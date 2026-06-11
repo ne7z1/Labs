@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7B115E-9383-4E37-8FAA-27DF041DCE20}|lab2\\lab2.csproj|c:\\users\\0\\source\\repos\\labs\\lab2\\lab2\\animalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7B115E-9383-4E37-8FAA-27DF041DCE20}|lab2\\lab2.csproj|solutionrelative:lab2\\animalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7B115E-9383-4E37-8FAA-27DF041DCE20}|lab2\\lab2.csproj|c:\\users\\0\\source\\repos\\labs\\lab2\\lab2\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7B115E-9383-4E37-8FAA-27DF041DCE20}|lab2\\lab2.csproj|solutionrelative:lab2\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7B115E-9383-4E37-8FAA-27DF041DCE20}|lab2\\lab2.csproj|c:\\users\\0\\source\\repos\\labs\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7B115E-9383-4E37-8FAA-27DF041DCE20}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7B115E-9383-4E37-8FAA-27DF041DCE20}|lab2\\lab2.csproj|c:\\users\\0\\source\\repos\\labs\\lab2\\lab2\\amphibian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7B115E-9383-4E37-8FAA-27DF041DCE20}|lab2\\lab2.csproj|solutionrelative:lab2\\amphibian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7B115E-9383-4E37-8FAA-27DF041DCE20}|lab2\\lab2.csproj|c:\\users\\0\\source\\repos\\labs\\lab2\\lab2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7B115E-9383-4E37-8FAA-27DF041DCE20}|lab2\\lab2.csproj|solutionrelative:lab2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7B115E-9383-4E37-8FAA-27DF041DCE20}|lab2\\lab2.csproj|c:\\users\\0\\source\\repos\\labs\\lab2\\lab2\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7B115E-9383-4E37-8FAA-27DF041DCE20}|lab2\\lab2.csproj|solutionrelative:lab2\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7B115E-9383-4E37-8FAA-27DF041DCE20}|lab2\\lab2.csproj|c:\\users\\0\\source\\repos\\labs\\lab2\\lab2\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7B115E-9383-4E37-8FAA-27DF041DCE20}|lab2\\lab2.csproj|solutionrelative:lab2\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7B115E-9383-4E37-8FAA-27DF041DCE20}|lab2\\lab2.csproj|c:\\users\\0\\source\\repos\\labs\\lab2\\lab2\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7B115E-9383-4E37-8FAA-27DF041DCE20}|lab2\\lab2.csproj|solutionrelative:lab2\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Amphibian.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\lab2\\Amphibian.cs",
+              "RelativeDocumentMoniker": "lab2\\Amphibian.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\lab2\\Amphibian.cs",
+              "RelativeToolTip": "lab2\\Amphibian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T12:27:29.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reptile.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\lab2\\Reptile.cs",
+              "RelativeDocumentMoniker": "lab2\\Reptile.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\lab2\\Reptile.cs",
+              "RelativeToolTip": "lab2\\Reptile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T12:27:20.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\lab2\\Fish.cs",
+              "RelativeDocumentMoniker": "lab2\\Fish.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\lab2\\Fish.cs",
+              "RelativeToolTip": "lab2\\Fish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T12:27:13.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\lab2\\Bird.cs",
+              "RelativeDocumentMoniker": "lab2\\Bird.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\lab2\\Bird.cs",
+              "RelativeToolTip": "lab2\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T12:27:00.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mammal.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\lab2\\Mammal.cs",
+              "RelativeDocumentMoniker": "lab2\\Mammal.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\lab2\\Mammal.cs",
+              "RelativeToolTip": "lab2\\Mammal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T12:26:51.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalManager.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\lab2\\AnimalManager.cs",
+              "RelativeDocumentMoniker": "lab2\\AnimalManager.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\lab2\\AnimalManager.cs",
+              "RelativeToolTip": "lab2\\AnimalManager.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T12:14:48.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\lab2\\Animal.cs",
+              "RelativeDocumentMoniker": "lab2\\Animal.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\lab2\\Animal.cs",
+              "RelativeToolTip": "lab2\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T12:14:38.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\Labs\\lab2\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:55:11.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
